@@ -109,19 +109,23 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 ```
 ## Output:
 ### Profit Prediction Graph :
-![image](https://github.com/harini1006/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497405/d64e3ca6-c94d-49b5-9116-a817b1d6d623)
+![Population of city1](https://github.com/user-attachments/assets/d8a997db-2a04-4b7a-83ef-04988828f324)
+![Population of city2](https://github.com/user-attachments/assets/fe560503-6da8-465a-8dba-fc000cd93a0f)
 
-![image](https://github.com/harini1006/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497405/92625829-e1c6-473f-8f6a-f00d6209bdd6)
 ### Compute Cost Value :
-![image](https://github.com/harini1006/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497405/9e384697-fc9f-4277-92c1-841b285cd101)
+![Compute cost value](https://github.com/user-attachments/assets/c01a1b58-d565-4546-8aa8-0f5421938357)
+
 ### h(x) Value :
-![image](https://github.com/harini1006/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497405/d8b272d5-104d-4cdb-942c-b849e8b54300)
+![hx value](https://github.com/user-attachments/assets/e7ef240f-c627-4a8b-9587-a5867fa51087)
+
 ### Cost function using Gradient Descent Graph :
-![image](https://github.com/harini1006/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497405/c1ac8e0b-f252-4aac-8984-2c9f00da624a)
+![cost function](https://github.com/user-attachments/assets/63241111-912b-440c-865f-2fc459293790)
+
 ### Profit for the Population 35,000 :
-![image](https://github.com/harini1006/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497405/61aad46d-b2d2-47d7-a7d7-ece05043cf30)
+![profit of population1](https://github.com/user-attachments/assets/e1176540-7316-4206-8fda-138240669197)
+
 ### Profit for the Population 70,000 :
-![image](https://github.com/harini1006/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497405/70f9f953-a1da-4225-be06-19b89e9b42fe)
+![profit of population2](https://github.com/user-attachments/assets/d6db8031-9ac1-48da-ab90-a59a9134293b)
 
 
 
